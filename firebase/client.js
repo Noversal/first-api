@@ -1,7 +1,10 @@
 import { initializeApp } from 'firebase/app';
+import dotenv from 'dotenv'
 import fs from 'fs'
 
-const firebaseConfig = fs.readFileSync('./firebase/firebase-keys.json', 'utf-8')
+dotemv.config()
+
+const firebaseConfig = process.env?.['firebase-keys']
 
 export const app = initializeApp(JSON.parse(firebaseConfig));
 
