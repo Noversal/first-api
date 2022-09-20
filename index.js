@@ -19,10 +19,15 @@ app.use(express.json())
 app.use(cors())
 
 app.get('/', async (req, res) => {
-  const info = await getURL()
-  const img = await Promise.all(info)
-  console.log(img)
-  res.send({ img })
+  try {
+    const info = await getURL()
+    const img = await Promise.all(info)
+    console.log(img)
+    res.send({ img })
+  }
+  catch {
+    res.send({ err: 404, text: 'No te haz podido conectar a la base de datos' })
+  }
 })
 
 app.post('/imagen', upload.single('imagen'), async (req, res) => {
