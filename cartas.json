@@ -1,0 +1,138 @@
+[
+  {
+    "data": [
+      {
+        "name": "Justicia",
+        "desc": "Sentado frente a un velo púrpura colgado libremente.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Fac972f75-ee9b-49ec-8698-acdb52fee017?alt=media&token=de13ba32-140d-411d-9a11-23a173376854",
+        "score": 1
+      },
+      {
+        "name": "El Mundo",
+        "desc": "Bailando dentro de una gran corona de laurel.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Ffb8dbaf2-2ff9-41e8-af6e-ecade46e1717?alt=media&token=f5f87b58-d38b-4a3b-a1fa-b252944d946b",
+        "score": 2
+      },
+      {
+        "name": "La Luna",
+        "desc": "Llena en el cielo de la noche, colocada entre dos grandes torres.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Ff1495f75-4aec-424c-9dd3-cf63a97bf25e?alt=media&token=e6fb65a6-f532-41ae-af2d-d537a13f6858",
+        "score": 3
+      },
+      {
+        "name": "El Sol",
+        "desc": "Irradia optimismo y positividad.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F181b61f2-45c4-4fe6-bfca-4e3909196cb7?alt=media&token=c06112d3-fb91-4a2c-903f-ed8ab56ae7dc",
+        "score": 4
+      },
+      {
+        "name": "Juicio",
+        "desc": "Hombres, mujeres y niños levantándose de sus tumbas.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Fa50e82a8-362c-47d5-bd5e-ed33b4223f10?alt=media&token=5127400f-2c96-48a8-a4e4-22ccdb549f73",
+        "score": 5
+      },
+      {
+        "name": "La Estrella",
+        "desc": "Arrodilladose en el borde de una pequeña piscina.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F4857167c-e274-432a-822c-247ecdd2d3aa?alt=media&token=c139d1f0-2ef4-42aa-8b8b-b59da3a65d9d",
+        "score": 6
+      },
+      {
+        "name": "La Torre",
+        "desc": "Torre alta encaramado en la cima de una montaña rocosa.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Fc8fdf63b-7709-4abb-9990-9584a57758bb?alt=media&token=65286456-d4ed-4997-928e-6830e06cbe1a",
+        "score": 7
+      },
+      {
+        "name": "El Diablo",
+        "desc": "Una criatura que es mitad hombre, mitad cabra.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F03ce5569-bc08-4203-8b5c-2ee21ab54f12?alt=media&token=e02dc083-e496-438c-87f6-718c16fa640a",
+        "score": 8
+      },
+      {
+        "name": "Templanza",
+        "desc": "Ángel grande y alado que es a la vez masculino y femenino.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F0dfc5a54-609b-4e73-bec1-65d51fab6bff?alt=media&token=eb413ae9-e9fc-4baf-9f49-97b4e637c9a5",
+        "score": 9
+      },
+      {
+        "name": "Muerte",
+        "desc": "Esqueleto vestido con una armadura negra, montando un caballo blanco.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F537a10e5-3a5d-4b7e-9350-defd63e9748a?alt=media&token=0ae080d6-0174-4b9f-b441-702746b7ffc9",
+        "score": 10
+      },
+      {
+        "name": "El Hombre Ahorcado",
+        "desc": "Hombre suspendido de una cruz en forma de T hecha de madera viva.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F214c0ce8-21e5-4edb-972e-76b14c9daefb?alt=media&token=e5b77cfb-4aef-48b9-a4c3-79a94164158a",
+        "score": 11
+      },
+      {
+        "name": "La Rueda de la Fortuna",
+        "desc": "Rueda gigante, con tres figuras en los bordes exteriores.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Fbd51255a-8cda-406b-9374-41446f664d71?alt=media&token=5f4b16c3-7135-4e59-8d8c-87ba29811dfc",
+        "score": 12
+      },
+      {
+        "name": "El Ermitaño",
+        "desc": "El Ermitaño se encuentra solo en la cima de una montaña. ",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F398280c1-fd17-4c2d-a692-cdce4eedd7cd?alt=media&token=b7b4773d-f71a-4167-83e0-f57054b7bc65",
+        "score": 13
+      },
+      {
+        "name": "La Fuerza",
+        "desc": "Domando a un león, que se entrega.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F7fc949d8-3684-40f4-8224-1761d9df7674?alt=media&token=dc5e7327-b9ca-44bb-b5ea-d03f62040984",
+        "score": 14
+      },
+      {
+        "name": "El Carro",
+        "desc": "Valiente guerrero de pie dentro de un carro.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Ffd53fd6d-b824-4c2e-8ee8-4649ba336d4e?alt=media&token=e0001cae-11e3-42c4-bfdb-eafb82054a6e",
+        "score": 15
+      },
+      {
+        "name": "Los Amantes",
+        "desc": "Un hombre y una mujer desnudos de pie debajo del ángel.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Fd1bd1891-95b2-4772-aaad-02a030c0b64d?alt=media&token=4a63e3e6-d0ce-47f0-b9b2-15f638b2b00f",
+        "score": 16
+      },
+      {
+        "name": "El Emperador",
+        "desc": "Si la Emperatriz es el arquetipo Madre de la baraja del Tarot, el Emperador es el Padre.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F9475cd7c-d534-4a4b-8ecb-187059d8bfd5?alt=media&token=919f284b-f00c-49ff-896c-76c94e6cf5ef",
+        "score": 17
+      },
+      {
+        "name": "El Hierofante",
+        "desc": "La carta del Hierofante, El Papa o El Sumo Sacerdote representa un conjunto establecido de valores y creencias espirituales y a menudo se correlaciona con la religión y otras doctrinas formales.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F0c3a7e9b-babb-40e9-aea7-b0c7341cbd54?alt=media&token=7f9ad3b2-8207-48e2-9495-acf95bf598b8",
+        "score": 18
+      },
+      {
+        "name": "La Emperatriz",
+        "desc": "La emperatriz es una mujer hermosa, de figura completa, con el pelo rubio y un aura pacífica sobre ella.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Fa86a272b-6f3c-41d9-a3c8-1ab10b67421c?alt=media&token=12e71a0d-f126-4835-b2ab-58cad259c203",
+        "score": 19
+      },
+      {
+        "name": "La Alta Sacerdotisa",
+        "desc": "La Alta Sacerdotisa se sienta frente a un delgado velo decorado con granadas.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2F6c6e2589-fa63-4b0d-960c-e9031b16a3e6?alt=media&token=c11cb5ed-67a1-4c79-a38c-f5bb10bb0b5a",
+        "score": 20
+      },
+      {
+        "name": "El Mago",
+        "desc": "La carta del Mago es numerada Uno – el número de nuevos comienzos y oportunidades – y se asocia con el planeta de Mercurio.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Fa6c8a0bc-9cea-441d-9fab-ca66bbd27496?alt=media&token=8f40a373-0f63-425e-bf99-cd3515844b2c",
+        "score": 21
+      },
+      {
+        "name": "El Loco",
+        "desc": "El Loco está numerado 0 – el número de potencial ilimitado – y por lo tanto no tiene un lugar específico en la secuencia de las cartas del Tarot.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/tarot-c4969.appspot.com/o/tarot%2Fdfb7822c-690c-4a22-94b6-d937e0b821b2?alt=media&token=1c30db28-3376-4aac-82b6-82c29286cac7",
+        "score": 22
+      }
+    ]
+  }
+]
