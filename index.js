@@ -2,6 +2,7 @@ import express from 'express'
 import multer from 'multer'
 import cors from 'cors'
 import fs from 'fs'
+import dotenv from 'dotenv'
 import { getURL, uploadFile } from './firebase/storage.js'
 
 const storage = multer.memoryStorage()
@@ -10,7 +11,9 @@ const upload = multer({ storage })
 
 
 const app = express()
-const port = 3000
+
+dotenv.config()
+const port = process.env.PORT || 3000
 
 app.use(express.json())
 app.use(cors())
