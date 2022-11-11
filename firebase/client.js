@@ -1,6 +1,5 @@
 import { initializeApp } from 'firebase/app';
 import dotenv from 'dotenv';
-import fs from 'fs';
 
 dotenv.config();
 
@@ -26,4 +25,6 @@ const firebaseConfig = {
   measurementId,
 };
 
-export const app = initializeApp(firebaseConfig);
+const app = initializeApp(firebaseConfig);
+
+export default { app };
