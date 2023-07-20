@@ -1,10 +1,9 @@
 import express from 'express';
 import multer from 'multer';
 import cors from 'cors';
-import fs from 'fs';
+import fs from 'node:fs/promises';
 import dotenv from 'dotenv';
 import { getURL, uploadFile } from './firebase/storage.js';
-import client from './firebase/client.js';
 
 const storage = multer.memoryStorage();
 
@@ -43,8 +42,11 @@ app.post('/imagen', upload.single('imagen'), async (req, res) => {
 });
 
 app.get('/cartas', (req, res) => {
-  const cartas = fs.readFileSync('./cartas.json', 'utf-8');
-  res.send(JSON.parse(cartas));
+  fs.readFile('./cartas.json', 'utf-8')
+    .then(
+      cartas => {
+        res.send(JSON.parse(cartas))
+      });
 });
 
 function init() {
